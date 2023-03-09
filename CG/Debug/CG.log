@@ -1,0 +1,108 @@
+﻿  Source.cpp
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(161,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(164,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(176,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(181,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(215,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(216,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(217,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(222,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(224,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(239,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(243,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(249,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(255,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(260,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(270,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(273,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(329,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(389,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(437,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(456,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(456,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(466,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(476,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(486,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(531,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(553,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(560,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(570,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(571,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(574,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(613,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(615,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(617,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(623,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(628,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(629,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(634,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(635,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(641,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(647,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(653,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(659,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(665,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(758,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(767,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(776,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(791,23): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(813,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(819,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(825,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(836,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(836,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(847,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(856,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(865,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(878,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(878,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(890,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(890,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(900,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(909,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(918,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(931,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(933,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(938,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(940,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(945,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(947,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(953,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(959,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(966,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(975,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(975,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1021,12): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1024,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1077,12): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1089,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1099,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1120,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1129,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1150,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1158,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1199,40): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1201,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1201,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1202,31): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1202,24): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1202,16): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1219,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1250,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1258,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1259,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1282,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1290,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1312,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1329,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1356,12): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1357,40): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1359,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1359,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1377,12): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1378,40): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1380,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1380,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1395,21): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Source.cpp(1395,13): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+  CG.vcxproj -> C:\Users\zeina\Documents\Visual Studio 2019\Projects\CG\Debug\CG.exe
